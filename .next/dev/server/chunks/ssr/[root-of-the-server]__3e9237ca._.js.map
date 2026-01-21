@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/YTANNU/Favorites/ai.coach/app/page.js"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\n\n\nexport default function Home() {\n  return <div>Subscribe to RoadSideCoder\n<br />\n    <Button>Hello</Button>   \n  </div>;\n\n  \n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAGe,SAAS;IACtB,qBAAO,8OAAC;;YAAI;0BACd,8OAAC;;;;;0BACG,8OAAC,qIAAM;0BAAC;;;;;;;;;;;;AAIZ"}}]
-}
